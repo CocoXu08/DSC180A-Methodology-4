@@ -6,7 +6,7 @@
 **Section:** D12 
 **Mentor:** Berk Ustun 
 
-## Quarter 2 Project Reflections
+## Quarter 2 Project Proposal
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
